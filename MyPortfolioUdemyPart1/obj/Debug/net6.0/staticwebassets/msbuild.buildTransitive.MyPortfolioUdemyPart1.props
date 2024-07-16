@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MyPortfolioUdemyPart1.props" />
+</Project>
